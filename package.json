@@ -1,0 +1,20 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "My blog!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glennhoward/blog.git"
+  },
+  "author": "Glenn Howard",
+  "bugs": {
+    "url": "https://github.com/glennhoward/blog/issues"
+  },
+  "homepage": "https://github.com/glennhoward/blog",
+  "dependencies": {
+    "ember": "~0.9",
+    "jquery": "2.1.x",
+    "less": "1.x.x"
+  }
+
+}
