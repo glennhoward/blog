@@ -13,7 +13,7 @@
   "homepage": "https://github.com/glennhoward/blog",
   "dependencies": {
     "ember": "~0.9",
-    "jquery": "2.1.x",
+    "jquery": "~> 3.0.0",
     "less": "1.x.x"
   }
 
